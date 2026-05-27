@@ -1,0 +1,8 @@
+Es importante que las comunidades puedan construir herramientas tecnológicas propias con tecnologías abiertas como Node.js porque promueve la autonomía y la soberanía tecnológica.
+Estas herramientas permiten a las iniciativas ciudadanas adaptar soluciones a sus necesidades reales, sin depender de empresas privadas.
+Node.js facilita el desarrollo colaborativo gracias a su ecosistema de software libre y su compatibilidad con JavaScript.
+Al usar tecnologías abiertas, los grupos pueden compartir conocimiento, mejorar sus proyectos y evitar costos excesivos.
+Además, construir tecnología propia fortalece la participación comunitaria y la capacidad de respuesta ante problemas locales.
+Express, como framework sencillo, ayuda a crear servidores web rápidos y accesibles para proyectos comunitarios.
+Esto también fomenta el aprendizaje técnico en la comunidad y reduce barreras para nuevas personas que quieran involucrarse.
+En conjunto, las tecnologías abiertas potencian la resiliencia social y la construcción de soluciones más justas.

@@ -1,0 +1,13 @@
+PRUEBAS DE RUTAS EN EXPRESS
+
+http://localhost:3000
+Resultado: Muestra el mensaje "Servidor activo"
+Descripción: Esta es la ruta raíz (/) que responde a todas las solicitudes en la dirección principal del servidor. Es útil para verificar que el servidor está funcionando correctamente.
+
+http://localhost:3000/saludo
+Resultado: Muestra el mensaje "Hola comunidad"
+Descripción: Esta ruta responde a solicitudes específicas a /saludo. El servidor devuelve un saludo fijo para cualquier usuario que acceda a esta dirección.
+
+http://localhost:3000/mensaje/juan
+Resultado: Muestra el mensaje "Hola juan"
+Descripción: Esta ruta utiliza parámetros dinámicos (:nombre). El servidor captura el valor después de /mensaje/ y lo utiliza para personalizad la respuesta. Si cambias "juan" por otro nombre, recibirás un saludo personalizado.
