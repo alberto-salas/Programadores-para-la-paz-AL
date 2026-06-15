@@ -1,1 +1,15 @@
+Puedes copiar el siguiente contenido en tu archivo **sistema.txt**:
 
+sistema.txt
+
+Información que muestran los comandos del sistema:
+
+* uname -a: Muestra información completa sobre el sistema operativo, el kernel y la arquitectura del equipo.
+* hostname: Muestra el nombre del servidor o equipo.
+* free -h: Muestra la cantidad de memoria RAM utilizada y disponible.
+* df -h: Muestra el espacio disponible y utilizado en los discos del sistema.
+* top: Muestra los procesos que se están ejecutando y el uso de recursos del sistema en tiempo real.
+
+¿Por qué es útil conocer información del sistema cuando se administra un servidor?
+
+Conocer la información del sistema es fundamental para administrar un servidor de manera eficiente. Permite supervisar el uso de recursos como memoria, procesador y almacenamiento, identificar posibles problemas de rendimiento, planificar actualizaciones y garantizar el correcto funcionamiento de los servicios. Además, ayuda a detectar fallos, mejorar la seguridad y tomar decisiones informadas para mantener el servidor estable y disponible para los usuarios.
