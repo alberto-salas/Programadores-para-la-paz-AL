@@ -1,1 +1,16 @@
+componentes-servidor.txt
 
+Sistema operativo:
+Es el software principal que administra los recursos del servidor, como la memoria, el procesador y el almacenamiento. Permite que las aplicaciones y servicios funcionen correctamente.
+
+Node.js:
+Es un entorno de ejecución que permite ejecutar código JavaScript fuera del navegador. Se utiliza para crear y ejecutar aplicaciones del lado del servidor.
+
+Aplicación server.js:
+Es el archivo que contiene el código de la aplicación web. Define cómo el servidor responde a las solicitudes de los usuarios y qué servicios ofrece.
+
+Puerto:
+Es un punto de comunicación que permite al servidor recibir y enviar datos. Cada servicio utiliza un puerto específico para atender las conexiones de los usuarios.
+
+Logs:
+Son archivos o registros que almacenan información sobre la actividad del servidor. Ayudan a monitorear el funcionamiento del sistema y a detectar errores o problemas.
